@@ -3,7 +3,7 @@
 ## Project Overview
 A Clorado board of Elections employees has asked following task to complete election audit of a recent local congressional elections
 
-1. Calculate the total number od votes cast.
+1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
 3. Calculate the total number of votes each candidate received.
 4. Calculate the percentage of votes each candidate won.
