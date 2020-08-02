@@ -1,33 +1,3 @@
-# Election_Analysis
-
-## Project Overview
-A Clorado board of Elections employees has asked following task to complete election audit of a recent local congressional elections
-
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
-
-## Resources
-- Data Resources : election_results.csv
-- Software : Python 3.6.1 , Visual Studio Code,1.47.3
-
-## Summary
-The analysis of the election show that :
-- There were 369,711 votes cast in election.
-- The candidates were:
-    - Charles Casper Stockham
-    - Diana DeGette
-    - Raymon Anthony Doane
-- The candidate results were:
-    - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
-    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-    - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-- The winner of the election was:
-    - Diana DeGette,who received 73.8% of the vote and 272,892 number of votes.
-
-
 
   
 #  Election Audit Challenge
@@ -70,8 +40,11 @@ Python script is used to calculate the following results.
 - The **winner** of the election was:
     - **Diana DeGette** is the winner ,who received **73.8%** of the vote and **272,892** number of votes.
     
-    #### Output from election challenge script
+#### Output from election challenge script
+
+ ![Election audit results](https://github.com/ajinderbains/Election_Analysis/tree/master/Resources)
  
+    
  
  ## Summary of Election Audit Challenge
 
@@ -82,8 +55,8 @@ This script can be used States wide with following changes in :
 2. Change the output file name to store the results from script.
 
 In additionan to this script can be modified to dril down for more analysis:
- - To find percentage vote each candidate get from each county.
- - Voter turnout for each county in comparison to total  registered voters of county.
+3. To find percentage vote each candidate get from each county.
+4. Voter turnout for each county in comparison to total  registered voters of county.
  
  
 
