@@ -41,7 +41,7 @@ Python script is used to calculate the following results.
     - **Diana DeGette** is the winner ,who received **73.8%** of the vote and **272,892** number of votes.
         
     
-#### Link for Output from election challenge script
+#### Output from election challenge script
 ![Election_Results](https://github.com/ajinderbains/Election_Analysis/blob/master/Resources/Results.png)
 
  
