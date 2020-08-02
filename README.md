@@ -39,6 +39,7 @@ The analysis of the election show that :
     ## Overview of Election Audit Challenge
     
     This analysis will help Seth and Tom to complete and submit  election audit for given county's congressional voting data to election commision.
-   
+   [Election_results](https://github.com/ajinderbains/Election_Analysis/blob/master/Resources/election_results.csv)
+   will be used to calculate following and will be used for analysis report.
     ## Challenge Summary
     
