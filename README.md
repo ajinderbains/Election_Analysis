@@ -69,9 +69,22 @@ Python script is used to calculate the following results.
     - Raymon Anthony Doane received **3.1%** of the vote and **11,606** number of votes.
 - The **winner** of the election was:
     - **Diana DeGette** is the winner ,who received **73.8%** of the vote and **272,892** number of votes.
+    
+    #### Output from election challenge script
  
  
  ## Summary of Election Audit Challenge
+
+To increase the usability of election audit script can be used for counting and auditing purposes for more county's congressional votes with more candidates.
+This script can be used States wide with following changes in :
+
+1. Change the name of file from where data is to be read.
+2. Change the output file name to store the results from script.
+
+In additionan to this script can be modified to dril down for more analysis:
+ - To find percentage vote each candidate get from each county.
+ - Voter turnout for each county in comparison to total  registered voters of county.
+ 
  
 
 
