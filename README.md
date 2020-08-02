@@ -50,7 +50,7 @@ Election audit results can be viewed in [Election Results](https://github.com/aj
  ## Summary of Election Audit Challenge
 
 To increase the usability of election audit script [Pypoll_challenge](https://github.com/ajinderbains/Election_Analysis/blob/master/PyPoll_Challenge.py) can be used for counting and auditing purposes for more county's congressional votes with more candidates.
-This script can be used States wide with following changes in :
+This script can be used States wide with following changes:
 
 1. Change the name of file from where data is to be read.
 2. Change the output file name to store the results from script.
