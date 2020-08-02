@@ -58,7 +58,7 @@ Python script is used to calculate the following results.
     - Denver county's voter turnout is  **306,055**  and **82.8%** of total voter turnout.
     - Arapahoe county's voter turnout is  **24,801**  and **6.7%** of total voter turnout.
  - County with **largest voter turnout**:
- - **Denver** is the county with **largest voter turnout** with **82.5%** of total voter turnout and **306,055** number of votes. 
+    - **Denver** is the county with **largest voter turnout** with **82.5%** of total voter turnout and **306,055** number of votes. 
  - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette
@@ -68,7 +68,11 @@ Python script is used to calculate the following results.
     - Diana DeGette received **73.8%** of the vote and **272,892** number of votes.
     - Raymon Anthony Doane received **3.1%** of the vote and **11,606** number of votes.
 - The **winner** of the election was:
-    - Diana DeGette is the winner ,who received **73.8%** of the vote and **272,892** number of votes.
+    - **Diana DeGette** is the winner ,who received **73.8%** of the vote and **272,892** number of votes.
+ 
+ 
+ ## Summary of Election Audit Challenge
+ 
 
 
 
