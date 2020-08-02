@@ -42,7 +42,9 @@ Python script is used to calculate the following results.
         
     
 #### Link for Output from election challenge script
-![Election_audit_results](https://github.com/ajinderbains/Election_Analysis/tree/master/Resources)
+
+![Election Results](https://github.com/ajinderbains/Election_Analysis/tree/master/Resources/results.PNG)
+
     
  
  ## Summary of Election Audit Challenge
